@@ -206,6 +206,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Push
   * Pull
   * Persistent
+  * Poll
 * Q
   * Queue
 * R
@@ -300,6 +301,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Wrap
   * Warning
   * Watchdog
+  * Wait
 * X
 * Y
 * Z
