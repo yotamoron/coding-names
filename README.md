@@ -48,6 +48,7 @@
   * Close
   * Coherent
   * Cycle
+  * Compatibility
 * D
   * Descriptor
   * Domain
@@ -65,6 +66,7 @@
   * Defer
   * Delete
   * Distribute / Distribution
+  * Downgrade
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -130,6 +132,7 @@
   * Materialized View
   * Measure
   * Metric
+  * Migrate
 * N
   * Node
 * O
@@ -216,6 +219,7 @@
   * User
   * Unmarshal
   * Uniform
+  * Upgrade
 * V
   * Validation / Validator / Valid
   * Visitor
