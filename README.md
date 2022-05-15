@@ -78,7 +78,6 @@
   * Disconnect
   * Downstream
   * Deploy
-  * Inflate
   * Dequeue
   * Drop
 * E
@@ -137,6 +136,7 @@
   * Illegal
   * Incoming
   * Install
+  * Inflate
 * J
 * K
 * L
