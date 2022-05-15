@@ -55,6 +55,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Concrete
   * Concurrent / Concurrency
   * Configure / Configuration
+  * Conflict
   * Connect / Connector
   * Consecutive
   * Consistent / Consistency
