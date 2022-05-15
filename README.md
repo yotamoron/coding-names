@@ -46,6 +46,8 @@
   * Copy
   * Code / Response Code
   * Close
+  * Coherent
+  * Cycle
 * D
   * Descriptor
   * Domain
@@ -76,6 +78,8 @@
   * Evaluate
   * Expose
   * Expression
+  * Evict
+  * Establish
 * F
   * Filter
   * Fallback
@@ -85,11 +89,13 @@
   * Fence
   * Flow
   * Fluent
+  * Flush
 * G
   * Granting / Granter
 * H
   * Handler
   * Hook
+  * Hold
 * I
   * Integration / Integrator
   * Interval
@@ -112,6 +118,7 @@
   * Linear
   * Legal
   * Log
+  * Lease
 * M
   * Marshall
   * Model
@@ -164,6 +171,7 @@
   * Request
   * Response
   * Range
+  * Review
 * S
   * Strategy pattern
   * Selector
@@ -194,6 +202,8 @@
   * Trace
   * Time / Timer
   * Type
+  * Thread
+  * Teardown
 * U
   * Underlying
   * Update
