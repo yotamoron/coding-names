@@ -136,6 +136,7 @@
   * Measure
   * Metric
   * Migrate
+  * Map
 * N
   * Node
 * O
@@ -184,6 +185,8 @@
   * Response
   * Range
   * Review
+  * Reduce
+  * Rollout
 * S
   * Strategy pattern
   * Selector
