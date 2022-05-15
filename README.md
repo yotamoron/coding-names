@@ -209,6 +209,7 @@
   * Reduce
   * Rollout
   * Rate
+  * Reject
 * S
   * Strategy
   * Selector
