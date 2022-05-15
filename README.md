@@ -53,6 +53,7 @@
   * Connect / Connector
   * Category
   * Count / Counter
+  * Compress
 * D
   * Descriptor
   * Domain
@@ -74,6 +75,7 @@
   * Disconnect
   * Downstream
   * Deploy
+  * Inflate
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -91,6 +93,7 @@
   * Evict
   * Establish
   * Error
+  * Enrich
 * F
   * Filter
   * Fallback
@@ -176,6 +179,7 @@
   * Protocol
   * Parse
   * Policy
+  * Piggyback
 * Q
   * Queue
 * R
@@ -259,6 +263,7 @@
   * Workload
   * Wrap
   * Warning
+  * Watchdog
 * X
 * Y
 * Z
