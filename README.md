@@ -51,6 +51,8 @@
   * Cycle
   * Compatibility
   * Connect / Connector
+  * Category
+  * Count / Counter
 * D
   * Descriptor
   * Domain
@@ -101,6 +103,7 @@
   * Flush
   * Fail / Failure
   * Format
+  * Flavour
 * G
   * Granting / Granter
   * Graph
@@ -150,6 +153,7 @@
   * Option
   * Open
   * Outgoing
+  * Orient / Orientation
 * P
   * Predicate
   * Pool
@@ -216,6 +220,7 @@
   * Surface
   * Stack / Stacktrace
   * Success
+  * Sign / Signature
 * T
   * Transaction
   * Transient
@@ -230,6 +235,7 @@
   * Thread
   * Teardown
   * Traffic
+  * Token
 * U
   * Underlying
   * Update
