@@ -15,6 +15,7 @@
   * Agent
   * Approve
   * Adapt
+  * Adjust
 * B
   * Broker
   * Binary
@@ -217,6 +218,7 @@
   * Rollout
   * Rate
   * Reject
+  * React / Reactive
 * S
   * Strategy
   * Selector
