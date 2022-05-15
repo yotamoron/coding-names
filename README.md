@@ -25,8 +25,9 @@
   * Backoff
   * Backoffice
   * Backpressue
+  * Bucket
 * C
-  * Collector
+  * Collector / Collection
   * Consistent / Consistency
   * Context
   * Callback
@@ -228,6 +229,7 @@
   * Represent / Representation
   * Random / Randomize
   * Reliable
+  * Respond
 * S
   * Strategy
   * Selector
