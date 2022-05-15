@@ -206,7 +206,7 @@
   * Rollout
   * Rate
 * S
-  * Strategy pattern
+  * Strategy
   * Selector
   * Sort / Sorting / Sorter
   * Search
