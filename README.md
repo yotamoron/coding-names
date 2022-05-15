@@ -90,6 +90,7 @@
   * Flow
   * Fluent
   * Flush
+  * Fail / Failure
 * G
   * Granting / Granter
 * H
@@ -191,6 +192,7 @@
   * Singleton
   * Surface
   * Stack / Stacktrace
+  * Success
 * T
   * Transaction
   * Transient
