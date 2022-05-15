@@ -1,9 +1,9 @@
-**A bunch of words and other stuff that will help naming stuff while programming. The aim 
-of this file is to include words that actually appear in code and carry a very distinct and well-defined
-meaning, so that the next time you think to yourself 'damn, what is the word I should use in this 
-function name / file name / variable name??' - you'll have a place to look...**
+**A bunch of words and other stuff that will help naming stuff while programming. 
+The aim of this file is to include words that actually appear in code and carry 
+a very distinct and well-defined meaning, so that the next time you think to 
+yourself 'damn, what is the word I should use in this function name / file name / variable name??' - you'll have a place to look...**
 
-## Free-hand keywords:
+**Free-hand words:**
 * A
   * Apply / Applying / Applier
   * Access
