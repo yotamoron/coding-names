@@ -103,6 +103,7 @@
   * Expiry / Expiration
   * Enqueue
   * Experiment
+  * Election
 * F
   * Filter
   * Fallback
@@ -151,6 +152,7 @@
   * Legal
   * Log
   * Lease
+  * Leader
 * M
   * Marshall
   * Model
@@ -195,6 +197,7 @@
   * Piggyback
   * Push
   * Pull
+  * Persistent
 * Q
   * Queue
 * R
@@ -224,6 +227,7 @@
   * React / Reactive
   * Represent / Representation
   * Random / Randomize
+  * Reliable
 * S
   * Strategy
   * Selector
