@@ -169,6 +169,7 @@
   * Open
   * Outgoing
   * Orient / Orientation
+  * Orthogonal
 * P
   * Predicate
   * Pool
