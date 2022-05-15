@@ -180,6 +180,7 @@ function name / file name / variable name??' - you'll have a place to look...**
   * Outgoing
   * Orient / Orientation
   * Orthogonal
+  * On-demand
 * P
   * Predicate
   * Pool
@@ -236,6 +237,7 @@ function name / file name / variable name??' - you'll have a place to look...**
   * Random / Randomize
   * Reliable
   * Respond
+  * Reserve
 * S
   * Strategy
   * Selector
