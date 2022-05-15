@@ -14,6 +14,7 @@
   * Attack
   * Agent
   * Approve
+  * Adapt
 * B
   * Broker
   * Binary
