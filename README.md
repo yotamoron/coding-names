@@ -17,6 +17,7 @@
   * Adapt
   * Adjust
   * Agnostic
+  * Acknowledge
 * B
   * Broker
   * Binary
