@@ -50,6 +50,7 @@
   * Coherent
   * Cycle
   * Compatibility
+  * Connect / Connector
 * D
   * Descriptor
   * Domain
@@ -68,6 +69,7 @@
   * Delete
   * Distribute / Distribution
   * Downgrade
+  * Disconnect
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
