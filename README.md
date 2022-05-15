@@ -71,6 +71,7 @@
   * Downgrade
   * Disconnect
   * Downstream
+  * Deploy
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
