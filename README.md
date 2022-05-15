@@ -78,6 +78,7 @@
   * Downstream
   * Deploy
   * Inflate
+  * Dequeue
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -97,6 +98,7 @@
   * Error
   * Enrich
   * Expiry / Expiration
+  * Enqueue
 * F
   * Filter
   * Fallback
@@ -113,6 +115,7 @@
 * G
   * Granting / Granter
   * Graph
+  * Gate / Gateway
 * H
   * Handler
   * Hook
