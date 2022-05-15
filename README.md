@@ -70,6 +70,7 @@
   * Distribute / Distribution
   * Downgrade
   * Disconnect
+  * Downstream
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -119,6 +120,7 @@
   * Immutable
   * Interface
   * Illegal
+  * Incoming
 * J
 * K
 * L
@@ -146,6 +148,7 @@
   * Orchestrator / Orchestration  
   * Option
   * Open
+  * Outgoing
 * P
   * Predicate
   * Pool
@@ -191,6 +194,7 @@
   * Review
   * Reduce
   * Rollout
+  * Rate
 * S
   * Strategy pattern
   * Selector
@@ -224,6 +228,7 @@
   * Type
   * Thread
   * Teardown
+  * Traffic
 * U
   * Underlying
   * Update
@@ -231,6 +236,7 @@
   * Unmarshal
   * Uniform
   * Upgrade
+  * Upstream
 * V
   * Validation / Validator / Valid
   * Visitor
