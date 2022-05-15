@@ -54,6 +54,7 @@
   * Category
   * Count / Counter
   * Compress
+  * Construct / Constructor
 * D
   * Descriptor
   * Domain
