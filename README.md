@@ -111,12 +111,15 @@
   * Limit / Limiter
   * Linear
   * Legal
+  * Log
 * M
   * Marshall
   * Model
   * Modifier
   * Mutable
   * Materialized View
+  * Measure
+  * Metric
 * N
   * Node
 * O
@@ -190,6 +193,7 @@
   * Transparent
   * Trace
   * Time / Timer
+  * Type
 * U
   * Underlying
   * Update
