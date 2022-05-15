@@ -61,6 +61,7 @@
   * Compress
   * Construct / Constructor
   * Consecutive
+  * Cancel
 * D
   * Descriptor
   * Domain
