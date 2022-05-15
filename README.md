@@ -85,6 +85,7 @@
   * Deploy
   * Dequeue
   * Drop
+  * Direction
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
