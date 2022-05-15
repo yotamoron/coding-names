@@ -64,6 +64,7 @@
   * Deduce
   * Defer
   * Delete
+  * Distribute / Distribution
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -97,6 +98,7 @@
   * Handler
   * Hook
   * Hold
+  * Handshake
 * I
   * Integration / Integrator
   * Interval
@@ -152,6 +154,7 @@
   * Path
   * Preemptive
   * Process
+  * Protocol
 * Q
   * Queue
 * R
@@ -212,6 +215,7 @@
   * Update
   * User
   * Unmarshal
+  * Uniform
 * V
   * Validation / Validator / Valid
   * Visitor
