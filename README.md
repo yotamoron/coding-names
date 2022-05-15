@@ -188,6 +188,7 @@
   * Transpile
   * Transparent
   * Trace
+  * Time / Timer
 * U
   * Underlying
   * Update
