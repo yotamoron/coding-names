@@ -22,6 +22,7 @@
   * Build
   * Backoff
   * Backoffice
+  * Backpressue
 * C
   * Collector
   * Consistent / Consistency
@@ -79,6 +80,7 @@
   * Deploy
   * Inflate
   * Dequeue
+  * Drop
 * E
   * Enumerator / Enumeration
   * Enforce / Enforcer
@@ -187,6 +189,8 @@
   * Parse
   * Policy
   * Piggyback
+  * Push
+  * Pull
 * Q
   * Queue
 * R
