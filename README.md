@@ -55,6 +55,7 @@
   * Count / Counter
   * Compress
   * Construct / Constructor
+  * Consecutive
 * D
   * Descriptor
   * Domain
