@@ -5,305 +5,306 @@ yourself 'damn, what is the word I should use in this function name / file name 
 
 **Free-hand words:**
 * A
-  * Apply / Applying / Applier
+  * Accept
   * Access
-  * Aspect
-  * Allow
-  * Allocate
-  * Attach
-  * Associate
-  * Async
-  * Annotate / Annotation
-  * Attack
-  * Agent
-  * Approve
+  * Acknowledge
   * Adapt
   * Adjust
+  * Agent
   * Agnostic
-  * Acknowledge
+  * Allocate
+  * Allow
+  * Annotate / Annotation
+  * Apply / Applying / Applier
+  * Approve
+  * Aspect
+  * Associate
+  * Async
+  * Attach
+  * Attack
 * B
-  * Broker
-  * Binary
-  * Break
-  * Build
   * Backoff
   * Backoffice
   * Backpressue
+  * Binary
+  * Break
+  * Broker
   * Bucket
+  * Build
 * C
-  * Collector / Collection
-  * Consistent / Consistency
-  * Context
-  * Callback
-  * Concrete
-  * Client
-  * Container
-  * Combination
-  * Continuation
-  * Commit
-  * Catch
-  * Concurrent / Concurrency
-  * Compile
-  * Call
-  * Clear
-  * Compact
-  * Create
   * Cache
-  * Controll / Controller
-  * Comupte
-  * Configure / Configuration
-  * Copy
-  * Code / Response Code
-  * Close
-  * Coherent
-  * Cycle
-  * Compatibility
-  * Connect / Connector
-  * Category
-  * Count / Counter
-  * Compress
-  * Construct / Constructor
-  * Consecutive
+  * Call
+  * Callback
   * Cancel
+  * Catch
+  * Category
+  * Clear
+  * Client
+  * Close
+  * Code / Response Code
+  * Coherent
+  * Collector / Collection
+  * Combination
+  * Commit
+  * Compact
+  * Compatibility
+  * Compile
+  * Compress
+  * Comupte
+  * Concrete
+  * Concurrent / Concurrency
+  * Configure / Configuration
+  * Connect / Connector
+  * Consecutive
+  * Consistent / Consistency
+  * Construct / Constructor
+  * Container
+  * Context
+  * Continuation
+  * Controll / Controller
+  * Copy
+  * Count / Counter
+  * Create
+  * Cycle
 * D
-  * Descriptor
-  * Domain
-  * Default
-  * Dependency
-  * Driver
   * Decrypt
-  * Deserialize
-  * Deny
-  * Destroy
-  * Detect / Detector / Detection
-  * Delegate
-  * Detach
   * Deduce
+  * Default
   * Defer
+  * Delegate
   * Delete
-  * Distribute / Distribution
-  * Downgrade
-  * Disconnect
-  * Downstream
+  * Deny
+  * Dependency
   * Deploy
   * Dequeue
-  * Drop
+  * Descriptor
+  * Deserialize
+  * Destroy
+  * Detach
+  * Detect / Detector / Detection
   * Direction
+  * Disconnect
+  * Distribute / Distribution
+  * Domain
+  * Downgrade
+  * Downstream
+  * Driver
+  * Drop
 * E
-  * Enumerator / Enumeration
+  * Election
+  * Encrypt
   * Enforce / Enforcer
   * Engine
+  * Enqueue
+  * Enrich
+  * Enumerator / Enumeration
   * Ephemeral
-  * Encrypt
+  * Error
+  * Establish
+  * Evaluate
   * Event
   * Event Loop
-  * Exponential
   * Eventual
+  * Evict
   * Execution / Execution Context
-  * Evaluate
+  * Experiment
+  * Expiry / Expiration
+  * Exponential
   * Expose
   * Expression
-  * Evict
-  * Establish
-  * Error
-  * Enrich
-  * Expiry / Expiration
-  * Enqueue
-  * Experiment
-  * Election
 * F
-  * Filter
-  * Fallback
   * Facade
-  * Find
   * Factory
+  * Fail / Failure
+  * Fallback
   * Fence
+  * Filter
+  * Find
+  * Flavour
   * Flow
   * Fluent
   * Flush
-  * Fail / Failure
   * Format
-  * Flavour
 * G
+  * Gate / Gateway
   * Granting / Granter
   * Graph
-  * Gate / Gateway
 * H
   * Handler
-  * Hook
-  * Hold
   * Handshake
+  * Hold
+  * Hook
 * I
-  * Integration / Integrator
-  * Interval
   * Identity
-  * Index / Indexing
-  * Intercept
-  * Insert
-  * Instance
-  * Inject
-  * Immutable
-  * Interface
   * Illegal
+  * Immutable
   * Incoming
-  * Install
+  * Index / Indexing
   * Inflate
+  * Inject
+  * Insert
+  * Install
+  * Instance
+  * Integration / Integrator
+  * Intercept
+  * Interface
+  * Interval
 * J
 * K
 * L
+  * Leader
+  * Lease
+  * Legal
   * Lifecycle
-  * Lock
-  * Loop
   * Limit / Limiter
   * Linear
-  * Legal
+  * Lock
   * Log
-  * Lease
-  * Leader
+  * Loop
 * M
+  * Map
   * Marshall
-  * Model
-  * Modifier
-  * Mutable
+  * Match / Matcher
   * Materialized View
   * Measure
   * Metric
   * Migrate
-  * Map
-  * Match / Matcher
+  * Model
+  * Modifier
+  * Mutable
 * N
   * Node
 * O
-  * Orchestrator / Orchestration  
-  * Option
+  * On-demand
   * Open
-  * Outgoing
+  * Option
+  * Orchestrator / Orchestration  
   * Orient / Orientation
   * Orthogonal
-  * On-demand
+  * Outgoing
 * P
-  * Predicate
-  * Pool
-  * Plugin
-  * Permission
-  * Populate
   * Parallel
-  * Permutation
-  * Pattern
-  * Publish
-  * Pipeline
-  * Proxy
-  * Pending
-  * Primitive
-  * Penetrate
+  * Parse
   * Path
+  * Pattern
+  * Pending
+  * Penetrate
+  * Permission
+  * Permutation
+  * Persistent
+  * Piggyback
+  * Pipeline
+  * Plugin
+  * Policy
+  * Poll
+  * Pool
+  * Populate
+  * Predicate
   * Preemptive
+  * Primitive
   * Process
   * Protocol
-  * Parse
-  * Policy
-  * Piggyback
-  * Push
+  * Proxy
+  * Publish
   * Pull
-  * Persistent
-  * Poll
+  * Push
 * Q
   * Queue
 * R
-  * Resolver
-  * Rule
   * Random
+  * Random / Randomize
+  * Range
+  * Rate
+  * React / Reactive
+  * Read
+  * Recover
+  * Reduce
+  * Refresh
+  * Register
+  * Reject
+  * Release
+  * Reliable
+  * Remove
+  * Report
+  * Repository
+  * Represent / Representation
+  * Request
+  * Reserve
   * Reset
+  * Resolver
+  * Respond
+  * Response
   * Restore
   * Retrieve
-  * Rollback
-  * Release
-  * Remove
-  * Register
-  * Repository
-  * Recover
-  * Read
   * Reverse
-  * Report
-  * Request
-  * Response
-  * Range
   * Review
-  * Reduce
+  * Rollback
   * Rollout
-  * Rate
-  * Reject
-  * React / Reactive
-  * Represent / Representation
-  * Random / Randomize
-  * Reliable
-  * Respond
-  * Reserve
-  * Refresh
+  * Rule
 * S
-  * Strategy
-  * Selector
-  * Sort / Sorting / Sorter
+  * Schedule
+  * Scope
   * Search
+  * Selector
+  * Send
+  * Serialize
+  * Server
+  * Ship
+  * Sign / Signature
+  * Singleton
+  * Sort / Sorting / Sorter
+  * Sparse
+  * Specific
+  * Split
+  * Stack / Stacktrace
+  * Stage
   * State
   * Status
+  * Strategy
   * Stream
-  * Server
   * Strong
-  * Serialize
-  * Specific
-  * Scope
-  * Stage
-  * Sparse
-  * Schedule
-  * Singleton
-  * Surface
-  * Stack / Stacktrace
   * Success
-  * Sign / Signature
-  * Ship
-  * Send
-  * Split
+  * Surface
 * T
-  * Transaction
-  * Transient
-  * Terminate / Termination
-  * Translate
-  * Transform
-  * Transpile
-  * Transparent
-  * Trace
-  * Time / Timer
-  * Type
-  * Thread
   * Teardown
-  * Traffic
+  * Terminate / Termination
+  * Thread
+  * Time / Timer
   * Token
   * Topology
+  * Trace
+  * Traffic
+  * Transaction
+  * Transform
+  * Transient
+  * Translate
+  * Transparent
+  * Transpile
+  * Type
 * U
   * Underlying
-  * Update
-  * User
-  * Unmarshal
   * Uniform
+  * Unmarshal
+  * Update
   * Upgrade
   * Upstream
+  * User
 * V
   * Validation / Validator / Valid
-  * Visitor
-  * Virtual
   * Version
   * Vertex
+  * Virtual
   * Visibility
+  * Visitor
 * W
+  * Wait
+  * Warning
+  * Watchdog
   * Weak
-  * Write
   * Workflow
   * Workload
   * Wrap
-  * Warning
-  * Watchdog
-  * Wait
+  * Write
 * X
 * Y
 * Z
