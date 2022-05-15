@@ -178,6 +178,7 @@
   * Schedule
   * Singleton
   * Surface
+  * Stack / Stacktrace
 * T
   * Transaction
   * Transient
@@ -186,6 +187,7 @@
   * Transform
   * Transpile
   * Transparent
+  * Trace
 * U
   * Underlying
   * Update
@@ -203,6 +205,7 @@
   * Write
   * Workflow
   * Workload
+  * Wrap
 * X
 * Y
 * Z
