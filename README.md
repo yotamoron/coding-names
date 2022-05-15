@@ -102,6 +102,7 @@
   * Enrich
   * Expiry / Expiration
   * Enqueue
+  * Experiment
 * F
   * Filter
   * Fallback
@@ -222,6 +223,7 @@
   * Reject
   * React / Reactive
   * Represent / Representation
+  * Random / Randomize
 * S
   * Strategy
   * Selector
