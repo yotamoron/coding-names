@@ -3,7 +3,7 @@ The aim of this file is to include words that actually appear in code and carry
 a very distinct and well-defined meaning, so that the next time you think to 
 yourself 'damn, what is the word I should use in this function name / file name / variable name??' - you'll have a place to look...**
 
-**Free-hand words:**
+**Free-hand words that CAN be used:**
 * A
   * Accept
   * Access
@@ -40,6 +40,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Cancel
   * Catch
   * Category
+  * Character
   * Clear
   * Client
   * Clone
@@ -340,3 +341,8 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * Y
 * Z
   * Zombie
+
+**Words that should never be used (the word and all its derivatives):
+* Manager
+* Utility
+* Helper
