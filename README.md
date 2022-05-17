@@ -328,6 +328,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Unique
   * Unload
   * Unmarshal
+  * Unrecoverable
   * Update
   * Upgrade
   * Upstream
