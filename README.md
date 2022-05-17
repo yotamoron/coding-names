@@ -342,7 +342,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * Z
   * Zombie
 
-**Words that should never be used (the word and all its derivatives):
+**Words that should never be used (the word and all its derivatives):**
 * Manager
 * Utility
 * Helper
