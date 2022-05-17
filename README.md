@@ -113,6 +113,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * E
   * Effective
   * Efficient
+  * Elapse
   * Election
   * Encrypt
   * End2End
@@ -289,6 +290,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Serialize
   * Server
   * Ship
+  * Shred
   * Sign / Signature
   * Singleton
   * Smooth
