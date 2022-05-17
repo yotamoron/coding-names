@@ -78,6 +78,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Create
   * Cycle
 * D
+  * Date
   * Deactivate
   * Decrypt
   * Deduce
@@ -290,6 +291,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Singleton
   * Smooth
   * Sort / Sorting / Sorter
+  * Span
   * Sparse
   * Specific
   * Split
