@@ -291,6 +291,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Request
   * Reserve
   * Reset
+  * Residual
   * Resolver
   * Respond
   * Response
