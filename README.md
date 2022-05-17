@@ -17,6 +17,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * All
   * Allocate
   * Allow
+  * Always
   * Annotate / Annotation
   * Any
   * Apply / Applying / Applier
@@ -213,7 +214,9 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Modifier
   * Mutable
 * N
+  * Never
   * Node
+  * None
 * O
   * Offload
   * On-demand
@@ -303,6 +306,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Sign / Signature
   * Singleton
   * Smooth
+  * Some
   * Sort / Sorting / Sorter
   * Span
   * Sparse
