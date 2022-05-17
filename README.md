@@ -188,6 +188,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Integration / Integrator
   * Intercept
   * Interface
+  * Interpreter / Interpret
   * Interval
   * Iterate / Iterator
 * J
