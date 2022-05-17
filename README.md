@@ -14,9 +14,11 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Adjust
   * Agent
   * Agnostic
+  * All
   * Allocate
   * Allow
   * Annotate / Annotation
+  * Any
   * Apply / Applying / Applier
   * Approve
   * Aspect
@@ -147,6 +149,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Fallback
   * Fence
   * Filter
+  * First
   * Find
   * Flavour
   * Flow
@@ -163,6 +166,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * H
   * Handler
   * Handshake
+  * Head
   * Hold
   * Hook
 * I
@@ -186,6 +190,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * J
 * K
 * L
+  * Last
   * Leader
   * Lease
   * Legal
@@ -315,6 +320,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Surface
   * Sync / Synchronize / Synchronization
 * T
+  * Tail
   * Teardown
   * Terminate / Termination
   * Test
