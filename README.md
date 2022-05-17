@@ -207,11 +207,13 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Parse
   * Path
   * Pattern
+  * Peek
   * Pending
   * Penetrate
   * Permission
   * Permutation
   * Persistent
+  * Pick
   * Piggyback
   * Pipeline
   * Plugin
