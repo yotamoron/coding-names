@@ -35,6 +35,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Bridge
   * Broker
   * Bucket
+  * Buffer
   * Build
   * Burst
 * C
