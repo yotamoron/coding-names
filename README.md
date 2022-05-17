@@ -201,6 +201,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Option
   * Orchestrator / Orchestration  
   * Orient / Orientation
+  * Orphan
   * Orthogonal
   * Outgoing
 * P
@@ -269,6 +270,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Rollout
   * Rule
 * S
+  * Scavenge / Scavenger
   * Schedule
   * Scope
   * Search
