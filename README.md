@@ -54,6 +54,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Compact
   * Compatibility
   * Compile
+  * Compose
   * Compress
   * Comupte
   * Concrete
@@ -89,6 +90,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Descriptor
   * Deserialize
   * Destroy
+  * Destruct
   * Detach
   * Detect / Detector / Detection
   * Diagnose
