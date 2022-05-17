@@ -212,6 +212,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Log
   * Loop
 * M
+  * Magnitude
   * Map
   * Marshall
   * Match / Matcher
@@ -223,6 +224,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Modifier
   * Mutable
 * N
+  * Neglect / Negligible
   * Never
   * Node
   * None
@@ -232,6 +234,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Open
   * Option
   * Orchestrator / Orchestration  
+  * Order
   * Orient / Orientation
   * Orphan
   * Orthogonal
