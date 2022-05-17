@@ -93,6 +93,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Dependency
   * Deploy
   * Dequeue
+  * Derive / Derivative
   * Descriptor
   * Deserialize
   * Destroy
