@@ -164,6 +164,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Granting / Granter
   * Graph
   * Group
+  * Guide / Guidance
 * H
   * Handler
   * Handshake
