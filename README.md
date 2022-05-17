@@ -62,6 +62,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Compact
   * Compatibility
   * Compile
+  * Complete
   * Compose
   * Compress
   * Comupte
@@ -79,6 +80,8 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Continuation
   * Controll / Controller
   * Copy
+  * Correct
+  * Corrupt
   * Count / Counter
   * Coverage
   * Create
@@ -117,6 +120,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Downstream
   * Driver
   * Drop
+  * Duplicate
 * E
   * Effective
   * Efficient
@@ -181,6 +185,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Incoming
   * Index / Indexing
   * Inflate
+  * Ingest
   * Init / Initialize
   * Inject
   * Insert
