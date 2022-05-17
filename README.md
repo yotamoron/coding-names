@@ -8,6 +8,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Accept
   * Access
   * Acknowledge
+  * Active / Activate
   * Adapt
   * Adjust
   * Agent
@@ -61,7 +62,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Consecutive
   * Consistent / Consistency
   * Construct / Constructor
-  * Container
+  * Container / Contains
   * Context
   * Continuation
   * Controll / Controller
@@ -71,6 +72,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Create
   * Cycle
 * D
+  * Deactivate
   * Decrypt
   * Deduce
   * Default
@@ -91,6 +93,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Diffrentiate
   * Direction
   * Disconnect
+  * Distinct
   * Distribute / Distribution
   * Domain
   * Downgrade
@@ -98,6 +101,8 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Driver
   * Drop
 * E
+  * Effective
+  * Efficient
   * Election
   * Encrypt
   * End2End
@@ -115,6 +120,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Eventual
   * Evict
   * Execution / Execution Context
+  * Exists
   * Experiment
   * Expiry / Expiration
   * Exponential
@@ -139,6 +145,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Gate / Gateway
   * Granting / Granter
   * Graph
+  * Group
 * H
   * Handler
   * Handshake
@@ -159,6 +166,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Intercept
   * Interface
   * Interval
+  * Iterate / Iterator
 * J
 * K
 * L
@@ -213,6 +221,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Populate
   * Predicate
   * Preemptive
+  * Present
   * Pressure
   * Primitive
   * Process
@@ -296,10 +305,12 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Translate
   * Transparent
   * Transpile
+  * Traverse
   * Type
 * U
   * Underlying
   * Uniform
+  * Unique
   * Unload
   * Unmarshal
   * Update
