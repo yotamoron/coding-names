@@ -18,6 +18,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Allocate
   * Allow
   * Always
+  * Anscestor
   * Annotate / Annotation
   * Any
   * Apply / Applying / Applier
@@ -33,6 +34,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Backpressue
   * Backward
   * Binary
+  * Bind
   * Bounce
   * Break
   * Breakdown
@@ -50,6 +52,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Catch
   * Category
   * Character
+  * Child
   * Clear
   * Client
   * Clone
@@ -86,6 +89,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Count / Counter
   * Coverage
   * Create
+  * Cross
   * Cycle
 * D
   * Date
@@ -227,6 +231,7 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * N
   * Neglect / Negligible
   * Never
+  * Next
   * Node
   * None
 * O
@@ -259,10 +264,12 @@ yourself 'damn, what is the word I should use in this function name / file name 
   * Poll
   * Pool
   * Populate
+  * Predessesor
   * Predicate
   * Preemptive
   * Present
   * Pressure
+  * Previous
   * Primitive
   * Process
   * Protocol
