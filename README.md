@@ -401,3 +401,8 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * Manager
 * Utility
 * Helper
+
+**Other wisdom**:
+* The type of a variable should not affect its name. The name of a variable should reflect the meaning and intention of the variable in the current scope. If a variable represents the amount of tax we need to add to a given price, why should its name include the type of the variable? This extra information about the variable is a waste, a cognitive load we must avoid.
+* One of the most important goals of proper naming, is to reduce - as much as possible - the cognitive load on the programmer. A name should accurately and concisely express the intention and meaning of a variable, without adding anything else that is irrelevant. 
+* A good name requires very little from the programmer in terms of storing state in the programmer's short-term memory (which is painfully small) when reading the code and making sense of it.
