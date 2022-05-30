@@ -401,6 +401,8 @@ yourself 'damn, what is the word I should use in this function name / file name 
 * Manager
 * Utility
 * Helper
+* Impl
+* Internal
 
 **Other wisdom**:
 * The type of a variable should not affect its name. The name of a variable should reflect the meaning and intention of the variable in the current scope. If a variable represents the amount of tax we need to add to a given price, why should its name include the type of the variable? This extra information about the variable is a waste, a cognitive load we must avoid.
