@@ -7,6 +7,7 @@ Software development envolves learning - a lot. One has to:
 * understand in varying degrees any mathematical or other scientific subjects, tools, paradigms, concepts, theories etc 
 
 
+What increase cognitive load:
 * Context switch
 * The need to remember state
 * The need to understand structure, meaning, instructions
